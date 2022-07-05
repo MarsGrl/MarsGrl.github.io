@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yanwen&#39;s Blog</title>
+  <icon>http://example.com/icon.png</icon>
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-06-15T02:52:01.000Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Yanwen Wei</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Flying UAV around hometown condo</title>
+    <link href="http://example.com/2022/06/15/remakes/"/>
+    <id>http://example.com/2022/06/15/remakes/</id>
+    <published>2022-06-15T02:52:01.000Z</published>
+    <updated>2022-06-15T02:52:01.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Last year when my younger brother got married, my sister and I rented a DJI air 3 to capture the wonderful memories. &lt;/p&gt;
+&lt;p&gt;Since then</summary>
+        
+      
+    
+    
+    
+    <category term="The interest of life" scheme="http://example.com/categories/The-interest-of-life/"/>
+    
+    
+    <category term="life" scheme="http://example.com/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Learn to write from an admirable book</title>
+    <link href="http://example.com/2021/10/08/looming/"/>
+    <id>http://example.com/2021/10/08/looming/</id>
+    <published>2021-10-08T03:44:53.000Z</published>
+    <updated>2021-10-08T03:44:53.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;A writing practice during the class of Prof. Fu&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Learn to write from an admirable book –&lt;br&gt;The Looming</summary>
+        
+      
+    
+    
+    
+    <category term="literature" scheme="http://example.com/categories/literature/"/>
+    
+    
+    <category term="literature" scheme="http://example.com/tags/literature/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Save earth as a geophysist</title>
+    <link href="http://example.com/2021/09/30/CO2/"/>
+    <id>http://example.com/2021/09/30/CO2/</id>
+    <published>2021-09-30T03:23:06.000Z</published>
+    <updated>2021-09-30T03:23:06.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;This is a motivation letter I wrote in September 2021, when I was going to attend a CO2 challenge. However, the last minute</summary>
+        
+      
+    
+    
+    
+    <category term="environment" scheme="http://example.com/categories/environment/"/>
+    
+    
+    <category term="literature" scheme="http://example.com/tags/literature/"/>
+    
+    <category term="thoughts" scheme="http://example.com/tags/thoughts/"/>
+    
+  </entry>
+  
+</feed>
